@@ -1,5 +1,4 @@
 import re
-
 with open("LLMs/the-verdict.txt", "r", encoding="utf-8") as f:
     raw_text = f.read()
 
